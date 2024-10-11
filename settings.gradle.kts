@@ -19,10 +19,10 @@ dependencyResolutionManagement {
     }
 }
 
-<<<<<<< HEAD
+HEAD
 rootProject.name = "Pruebapp"
-=======
+
 rootProject.name = "LingoLink"
->>>>>>> 54470956a43e9d747034cd275b9f10a8601f4e9a
+54470956a43e9d747034cd275b9f10a8601f4e9a
 include(":app")
  
