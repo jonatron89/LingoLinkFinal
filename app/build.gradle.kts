@@ -4,11 +4,19 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.poli.pruebapp"
     compileSdk = 34
 
     defaultConfig {
         applicationId = "com.poli.pruebapp"
+=======
+    namespace = "com.Poli.lingolink"
+    compileSdk = 34
+
+    defaultConfig {
+        applicationId = "com.Poli.lingolink"
+>>>>>>> 54470956a43e9d747034cd275b9f10a8601f4e9a
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -33,9 +41,12 @@ android {
     kotlinOptions {
         jvmTarget = "1.8"
     }
+<<<<<<< HEAD
     buildFeatures {
         viewBinding = true
     }
+=======
+>>>>>>> 54470956a43e9d747034cd275b9f10a8601f4e9a
 }
 
 dependencies {
@@ -45,10 +56,13 @@ dependencies {
     implementation(libs.material)
     implementation(libs.androidx.activity)
     implementation(libs.androidx.constraintlayout)
+<<<<<<< HEAD
     implementation(libs.androidx.lifecycle.livedata.ktx)
     implementation(libs.androidx.lifecycle.viewmodel.ktx)
     implementation(libs.androidx.navigation.fragment.ktx)
     implementation(libs.androidx.navigation.ui.ktx)
+=======
+>>>>>>> 54470956a43e9d747034cd275b9f10a8601f4e9a
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)

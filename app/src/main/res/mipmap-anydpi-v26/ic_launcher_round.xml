@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+<<<<<<< HEAD
     <background android:drawable="@drawable/ic_launcher_foreground" />
     <foreground android:drawable="@drawable/lingolink" />
+=======
+    <background android:drawable="@drawable/ic_launcher_background" />
+    <foreground android:drawable="@drawable/ic_launcher_foreground" />
+>>>>>>> 54470956a43e9d747034cd275b9f10a8601f4e9a
     <monochrome android:drawable="@drawable/ic_launcher_foreground" />
 </adaptive-icon>

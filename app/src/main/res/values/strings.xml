@@ -1,4 +1,5 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Pruebapp</string>
     <string name="title_activity_pri">PriActivity</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -11,4 +12,7 @@
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
     <string name="menu_web">Web</string>
+=======
+    <string name="app_name">LingoLink</string>
+>>>>>>> 54470956a43e9d747034cd275b9f10a8601f4e9a
 </resources>
